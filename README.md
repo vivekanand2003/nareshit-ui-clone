@@ -75,7 +75,6 @@ No build tools or installation required.
 <img width="1366" height="768" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/ce6accdf-2161-4cb5-8297-f9decd764a81" />
 <img width="1366" height="768" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/8686c9e5-9616-4bbf-9cd3-5fd3108d49db" />
 <img width="1366" height="768" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/aa41ecaf-71bd-484d-a872-eac46b68d737" />
-<img width="1366" height="768" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/1f022677-bf63-4cd1-8773-35750df4801b" />
 <img width="1366" height="768" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/1e2d5f3a-5cb6-4b5f-9da5-0624c25ed8a2" />
 <img width="1366" height="768" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/d2042d7b-9e96-4cf0-ac0b-ed0a80c3f407" />
 <img width="1366" height="768" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/5a781ed9-7782-479f-896c-2e3129eadc2c" />
