@@ -1,0 +1,126 @@
+body{
+            background-color:#F9FAFB;
+            color:#000000;
+        }
+        .navHead {
+            font-size: 250%;
+            margin: 2.5% 0;
+        }
+        #headNav{
+            background-color: #0D1B2A;
+            color:#F5F3F4 ;
+        }
+        .nav-link{
+            color:#F5F3F4 ;
+        }
+        .dropdown {
+            padding-right: 60px;
+        }
+
+        #dropMenu>div {
+            cursor: pointer;
+        }
+
+        #imgBanner {
+            width: 100%;
+            height: 450px;
+        }
+
+        .btnContent {
+            width: 40%;
+        }
+
+        .rows {
+            background-color: #F1F6F9;
+            box-shadow: 3px 3px 2px #bde1f4;
+        }
+
+        .iconJob {
+            font-size: 50px;
+            
+        }
+
+        .titleJob {
+            font-size: 20px;
+            font-weight: 500;
+            margin-bottom: 2%;
+        }
+
+        .textJob {
+            line-height: 1.6;
+            font-weight: 450;
+        }
+
+        .floatMain {
+            height: 250px;
+            width: 100%;
+            margin: 1% 0;
+            /* border: 2px solid red; */
+        }
+
+        .imgFloat {
+            width: 20%;
+            height: 60%;
+            margin: 3% 2%;
+
+        }
+
+        .iconNumber {
+            font-size: 50px;
+        }
+
+        .floatDetailStart {
+            padding-left: 25%;
+            margin-top: 1%;
+        }
+
+        .floatDetailEnd {
+            padding-left: 3%;
+            margin-top: 1%;
+        }
+
+        a {
+            text-decoration: none;
+            /* color: white; */
+        }
+
+        .studDept {
+            background-color:#EAE2B7;
+            color:#000000
+        }
+        .studSpa{
+            font-weight: 600;
+        }
+
+        .card {
+            box-shadow: 2px 5px 2px black;
+        }
+
+        #imgCard {
+            width: 95%;
+            height: 150px;
+        }
+        .cardTitle{
+            color:rgb(16, 6, 160);
+            font-weight: 700;
+        }
+
+
+        .footNav {
+            background-color:#0D1B2A;
+        }
+        .navFoot{
+            color:#F9FAFB;
+        }
+        /* index html */
+
+         iframe{
+            width:100%;
+            height: 550px;
+        }
+        /* dropdown nav bar  */
+        /* for registration input gap between row*/
+
+        .regiEle{
+        margin-bottom: 3%;
+       }
