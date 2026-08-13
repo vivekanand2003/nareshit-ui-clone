@@ -3,6 +3,7 @@
 A responsive multi‑page demo website built using **HTML, CSS, and Bootstrap 5**. This project showcases a basic institute/business website structure with navigation, services, contact, and authentication pages. It is designed for frontend practice and learning responsive web design.
 
 ---
+🔗 **Live Demo:** [View Website](https://nareshit-ui-clone.vercel.app/)
 
 ## 📌 Features
 
